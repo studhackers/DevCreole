@@ -4,7 +4,8 @@
   "description": "Project to help beginner developper improve their skills",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/paterson1720/DevCreole/issues"
   },
-  "homepage": "https://github.com/paterson1720/DevCreole#readme"
+  "homepage": "https://github.com/paterson1720/DevCreole#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
 }

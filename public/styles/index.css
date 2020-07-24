@@ -1,0 +1,19 @@
+
+body{
+    display:flex; 
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    max-width: 860px; 
+    margin:0 auto;
+}
+
+.title {
+    color:dodgerblue; 
+    width:100%; 
+    text-align: center;
+}
+        
