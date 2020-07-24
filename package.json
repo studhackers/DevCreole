@@ -1,0 +1,19 @@
+{
+  "name": "devcreole",
+  "version": "1.0.0",
+  "description": "Project to help beginner developper improve their skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paterson1720/DevCreole.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paterson1720/DevCreole/issues"
+  },
+  "homepage": "https://github.com/paterson1720/DevCreole#readme"
+}
