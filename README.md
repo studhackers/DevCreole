@@ -15,4 +15,7 @@ It is a project that aims to create an online place for developers who speak cre
 ##  Then install the dependencies
 ``npm install``
 
+## Run the server
+``npm start``
+
 ##  Finally, visit http://localhost:8080/ in your browser to see the App in action.
